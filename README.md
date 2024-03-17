@@ -8,6 +8,7 @@ This is sentiment analytic model from Dune Part Two movies based on [Letterbox W
 
 ```bash
 git clone https://github.com/RizkiNoor16/dune-2-sentimen.git
+#Copy model downloaded from gdrive to directory (dune-2-sentiment/model/dune_rate_models)
 pip install -r requirements.txt
 streamlit run app.py
 ```
