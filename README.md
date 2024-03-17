@@ -12,7 +12,15 @@ git clone https://github.com/RizkiNoor16/dune-2-sentimen.git
 pip install -r requirements.txt
 streamlit run app.py
 ```
+
+## Demo Captures
+**Demo**
+
 ![Screenshot from 2024-03-17 13-02-09](https://github.com/RizkiNoor16/dune-2-sentiment/assets/99520100/3aab0ae3-76f1-4fc2-97ea-b37aea2396a7)
+
+**Actual Review**
+
+![Screenshot from 2024-03-17 14-18-34](https://github.com/RizkiNoor16/dune-2-sentiment/assets/99520100/9ac09c7c-3476-4ae5-bf97-e9a995caf8f3)
 
 
 ## Results
@@ -60,5 +68,3 @@ Email : deede.rizki@gmail.com
 
 Linkedin : [Noor Muhamad Rizki](https://www.linkedin.com/in/noor-muhamad-rizki-114600231/)
 
-
-##
